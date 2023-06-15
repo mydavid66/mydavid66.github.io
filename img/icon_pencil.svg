@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>icon_pencil</title>
+	<defs>
+		<image  width="76" height="76" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAABMBAMAAAA1uUwYAAAAAXNSR0IB2cksfwAAACdQTFRFGnPoGnPoGnPoGnPoGnPoGnPoGnPoGnPoGnPoGnPoGnPoGnPoGnPofzj5oAAAAA10Uk5TACCAr0Bg/4+f7zC/UFh1b04AAADgSURBVHic7dK9DQIxDIbhUFwBYwADIYrr+bOuZASWgPraW4Ca0ZDuJ7FP+j57gLjNq0dK4pTYbA5Hej5PK/L0q0ZEuhAm8opgAW7EXG7CXG7GHG7BHG6bM8rtPjFuKBz7CsXdUdMb7gqqpjPcDWTteLvB0Zrpdpm7IEwMd0KY4R4Y0xzBFEexwlEscw62cA42c28PY4umMLZoGsOcwTBnMZE+gvlv5q5GxSpWsYqFsfQNYesMYKsMYasMYTaDmM0gZjKMmQxjOiOYzgimMoapjGElo1jJKJYzjqXzfpofrf68ypwcUvkW+gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="12" y="12"/>
+</svg>
